@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @florianajir
-- 📫 How to reach me: [florianajir.github.io](https://florianajir.github.io)
+- 👋 [About Me](https://about.me/florianajir/)
+- 📫 [Contact Me](https://florianajir.github.io)
+- 🔗 [Social Network](https://www.linkedin.com/in/florianajir)
 
 <!---
 florianajir/florianajir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
