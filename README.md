@@ -8,7 +8,7 @@ I'm coding with PHP, Symfony, Javascript, Typescript, Next.js, Bash, Python, Jav
 
 ## 🛠️ What I do
 
-Actually coding an mvp ethical online business (TBA), playing with raspberry pi, domotic, web3 and AI stuffs. 
+Actually coding an mvp ethical online business (TBA), playing with raspberry pi, domotic, infosec/pentest, web3 and AI stuffs. 
 
 ## 📊 Github stats
 
